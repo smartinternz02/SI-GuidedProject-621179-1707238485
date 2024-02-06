@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Screen xmlns="http://soap.sforce.com/2006/04/metadata">
+    <allowBack>false</allowBack>
+    <allowFinish>false</allowFinish>
+    <!-- Other screen flow configurations -->
+</Screen>
+
